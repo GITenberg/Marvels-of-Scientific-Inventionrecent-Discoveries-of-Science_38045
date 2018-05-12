@@ -1,0 +1,27 @@
+_repo: Marvels-of-Scientific-Inventionrecent-Discoveries-of-Science_38045
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38045-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Corbin, Thomas W.
+    gutenberg_agent_id: '37035'
+    url: http://www.gutenberg.org/2009/agents/37035
+description: ''
+gutenberg_issued: '2011-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38045'
+  lccn: '17004604'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'T'
+- !lcsh 'Inventions'
+title: "Marvels of Scientific Invention\r\nAn Interesting Account in Non-Technical\
+  \ Language of the Invention of Guns, Torpedoes, Submarine Mines, Up-to-Date Smelting,\
+  \ Freezing, Colour Photography, and Many Other Recent Discoveries of Science"
+url: http://www.gutenberg.org/ebooks/38045
